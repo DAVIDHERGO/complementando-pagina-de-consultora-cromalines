@@ -16,4 +16,4 @@
  - Usuario de Github)
 * Recorrer el JSON y mostrar la información en la página de la consultora: (e.g)
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](https://github.com/danjrosales/data/blob/master/img/team.png)
