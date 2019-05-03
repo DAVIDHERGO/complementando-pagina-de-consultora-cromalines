@@ -16,4 +16,4 @@
  - Usuario de Github)
 * Recorrer el JSON y mostrar la información en la página de la consultora: (e.g)
 
-[![Foo](https://github.com/danjrosales/data/blob/master/img/team.png)
+![team](https://github.com/danjrosales/data/blob/master/img/team.png)
