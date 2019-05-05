@@ -1,70 +1,69 @@
 {
   "data": [
     [
-      "John Doe",
+      "Joss",
       "System Architect",
-      "USA",
-      "$320,800"
+      "Sonora"
+      
     ],
     [
-      "J. Joplin",
+      "Jacobo",
       "Product Designer",
-      "London",
-      "$50,560"
+      "Sinaloa"
+      
     ],
     [
-      "Jane Doe",
+      "Javier",
       "Scrum Master",
-      "London",
-      "$350,560"
+      "Baja California"
+      
     ],
     [
-      "Michael Jackson",
+      "Tereza",
       "UX Designer",
-      "Canada",
-      "$183,000"
+      "China"
+      
     ],
     [
-      "Michael Bubble",
+      "Mauricio",
       "Java Developer",
-      "Singapore",
-      "$190,000"
+      "Durango"
+      
     ],
     [
-      "Bruce Banner",
+      "Braulio",
       "Designer",
-      "USA",
-      "$100,000"
+      "Nuevo Leon"
     ],
     [
-      "Michael R",
+      "Mirna",
       "Tester",
-      "London",
-      "$73,000"
+      "Tamaulipas"
+      
     ],
     [
-      "Bruce Wayne",
+      "Bruno",
       "CEO",
-      "USA",
-      "$583,000"
+      "Veracruz"
+      
     ],
     [
-      "Michael D. Reznor",
+      "Rosa",
       "DBA",
-      "Manchester",
-      "$199,000"
+      "Ecatepec"
+      
     ],
     [
-      "Dennis Quade",
+      "Juan",
       "Designer",
-      "New York",
-      "$89,000"
+      "CDMX"
+      
     ],
     [
-      "Donna Snider",
+      "Pedro",
       "Customer Support",
-      "New York",
-      "$112,000"
+      "Guanajuato"
+    
     ]
   ]
 }
